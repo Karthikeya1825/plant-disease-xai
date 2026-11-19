@@ -1,0 +1,306 @@
+{
+  "Apple___Apple_scab": {
+    "crop": "Apple",
+    "disease": "Apple Scab",
+    "pathogen": "Venturia inaequalis (Fungus)",
+    "description": "Apple scab is one of the most serious fungal diseases affecting apples and crabapples, causing olive-green to black lesions on leaves and dark scabby spots on fruit.",
+    "symptoms": "Dull olive-green velvety spots on leaves that turn dark brown or black with age; premature leaf drop; fruit developing corky, scabby lesions that may crack.",
+    "management": "Rake and destroy fallen leaves in autumn; prune trees to improve air circulation and sunlight penetration; apply preventative copper or sulfur-based fungicides during bud break and wet spring periods."
+  },
+  "Apple___Black_rot": {
+    "crop": "Apple",
+    "disease": "Black Rot",
+    "pathogen": "Botryosphaeria obtusa (Fungus)",
+    "description": "Black rot attacks apple fruit, leaves, and bark, leading to 'frog-eye' leaf spots and mummified black fruit.",
+    "symptoms": "Circular brown leaf spots with distinct purple margins ('frog-eye'); sunken cankers on limbs; fruit rot turning completely black and mummifying on the branch.",
+    "management": "Prune out dead wood and fire-blighted twigs; remove mummified fruits from trees and ground; apply captan or thiophanate-methyl fungicides during early season."
+  },
+  "Apple___Cedar_apple_rust": {
+    "crop": "Apple",
+    "disease": "Cedar Apple Rust",
+    "pathogen": "Gymnosporangium juniperi-virginianae (Fungus)",
+    "description": "A heteroecious rust requiring both apple trees and eastern red cedar / juniper to complete its complex two-year life cycle.",
+    "symptoms": "Bright yellow-orange or reddish circular spots on upper leaf surfaces; raised tube-like structures (aecia) protruding from the underside of leaves.",
+    "management": "Eradicate nearby cedar or juniper hosts if feasible within a 1-2 mile radius; plant rust-resistant apple cultivars; apply myclobutanil or mancozeb fungicides as leaves emerge."
+  },
+  "Apple___healthy": {
+    "crop": "Apple",
+    "disease": "Healthy Leaf",
+    "pathogen": "None",
+    "description": "Vibrant, green apple foliage free of fungal, bacterial, or necrotic lesions.",
+    "symptoms": "Uniform green coloration, smooth margins, well-developed venation, no spotting or curling.",
+    "management": "Continue balanced fertilization, regular irrigation schedule, seasonal pruning, and proactive scouting for early pest or disease pressure."
+  },
+  "Blueberry___healthy": {
+    "crop": "Blueberry",
+    "disease": "Healthy Leaf",
+    "pathogen": "None",
+    "description": "Healthy blueberry foliage showing lush, uniform green coloration.",
+    "symptoms": "No chlorosis, leaf spots, or necrotic margins; firm and glossy foliage.",
+    "management": "Maintain acidic soil pH (4.5 to 5.2), provide organic pine bark mulch, ensure steady moisture without waterlogging, and test micronutrients annually."
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "crop": "Cherry",
+    "disease": "Powdery Mildew",
+    "pathogen": "Podosphaera clandestina (Fungus)",
+    "description": "A widespread fungal disease that covers tender cherry leaves and fruit in white powdery fungal mycelia and spores.",
+    "symptoms": "White powdery patches on leaf surfaces; leaf curling upward; stunted young shoot growth; deformed or cracked fruit.",
+    "management": "Prune interior canopy to maximize airflow; avoid overhead irrigation; apply potassium bicarbonate, neem oil, or sulfur fungicides at first appearance of powdery growth."
+  },
+  "Cherry_(including_sour)___healthy": {
+    "crop": "Cherry",
+    "disease": "Healthy Leaf",
+    "pathogen": "None",
+    "description": "Healthy cherry foliage with robust chlorophyll density and unblemished margins.",
+    "symptoms": "Intact leaf blades, vibrant green color, free from fungal spotting or shot-hole perforations.",
+    "management": "Standard orchard maintenance: monitor for aphid activity, prune during dormant season, and ensure proper drainage."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "crop": "Corn (Maize)",
+    "disease": "Gray Leaf Spot",
+    "pathogen": "Cercospora zeae-maydis (Fungus)",
+    "description": "A devastating fungal disease of corn characterized by rectangular lesions that follow the leaf veins, leading to extensive photosynthetic loss.",
+    "symptoms": "Narrow, rectangular lesions restricted by leaf veins; lesions expand from tan to gray; severe infections result in leaf blight and stalk rot.",
+    "management": "Rotate crops with non-host species (such as soybeans); utilize minimum 2-year tillage to bury crop residue; plant resistant corn hybrids; apply strobilurin or triazole fungicides."
+  },
+  "Corn_(maize)___Common_rust_": {
+    "crop": "Corn (Maize)",
+    "disease": "Common Rust",
+    "pathogen": "Puccinia sorghi (Fungus)",
+    "description": "Fungal rust causing powdery pustules across both upper and lower corn leaf surfaces, favored by cool, humid weather.",
+    "symptoms": "Small, oval, cinnamon-brown to dark brown powdery pustules (uredinia) scattered on leaves; rupture of the leaf epidermis.",
+    "management": "Plant resistant hybrids with specific Rp gene resistance; early planting to avoid peak spore dispersal; apply foliar fungicides when pustules appear on upper leaves before silking."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "crop": "Corn (Maize)",
+    "disease": "Northern Corn Leaf Blight",
+    "pathogen": "Exserohilum turcicum (Fungus)",
+    "description": "A major foliar disease causing large, cigar-shaped grayish-green to tan lesions on corn leaves, causing significant grain yield reduction.",
+    "symptoms": "Long, elliptical (cigar-shaped) lesions (1 to 6 inches long) starting on lower leaves and progressing upwards; lesions turn tan or grayish with dark fungal spores.",
+    "management": "Use resistant hybrids containing Ht genes; practice crop rotation; incorporate crop residue into soil; apply registered fungicides if disease reaches the ear leaf prior to tasseling."
+  },
+  "Corn_(maize)___healthy": {
+    "crop": "Corn (Maize)",
+    "disease": "Healthy Leaf",
+    "pathogen": "None",
+    "description": "Vigorous, dark green maize foliage without necrotic stripes, pustules, or chlorotic streaks.",
+    "symptoms": "Clean, elongated leaf blades with distinct central midrib and uniform green coloration.",
+    "management": "Apply nitrogen according to soil tests, maintain adequate moisture during silking, and scout fields regularly."
+  },
+  "Grape___Black_rot": {
+    "crop": "Grape",
+    "disease": "Black Rot",
+    "pathogen": "Guignardia bidwellii (Fungus)",
+    "description": "A destructive disease affecting cultivated grapevines, attacking shoots, leaves, and causing infected fruit to shrivel into hard black mummies.",
+    "symptoms": "Small circular reddish-brown leaf spots with tiny black dots (pycnidia) inside the ring; berries turn soft, rot, and shrivel into black mummies.",
+    "management": "Prune and destroy infected canes and mummified clusters; open the vine canopy through shoot thinning; apply myclobutanil or mancozeb from early shoot growth through fruit set."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "crop": "Grape",
+    "disease": "Esca (Black Measles)",
+    "pathogen": "Complex of Phaeomoniella chlamydospora & Fomitiporia mediterranea",
+    "description": "A complex trunk and foliar disease that causes characteristic 'tiger-stripe' necrosis on leaves and dark flecks on grapes.",
+    "symptoms": "'Tiger-stripe' chlorotic and necrotic patterns between leaf veins; sudden wilting ('apoplexy') of whole shoots in hot weather; purple-brown spots on fruit.",
+    "management": "Protect pruning wounds with wound sealants; avoid pruning in rainy weather; remove and burn dead trunks; replace severely infected vines."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "crop": "Grape",
+    "disease": "Leaf Blight (Isariopsis Leaf Spot)",
+    "pathogen": "Pseudocercospora vitis (Fungus)",
+    "description": "Causes irregular brown to dark reddish necrotic lesions that lead to premature defoliation in late summer.",
+    "symptoms": "Irregular necrotic brown lesions with faint yellowish halos; dark fungal sporulation visible on the underside in humid conditions.",
+    "management": "Improve air circulation in the vineyard canopy; remove fallen leaf debris; apply copper fungicides or broad-spectrum protectants."
+  },
+  "Grape___healthy": {
+    "crop": "Grape",
+    "disease": "Healthy Leaf",
+    "pathogen": "None",
+    "description": "Healthy grapevine leaf showing classic lobed morphology and uniform green pigment.",
+    "symptoms": "Well-expanded palmate leaf blades, clear venation, absence of spots, wilting, or marginal burns.",
+    "management": "Maintain trellis training, balanced fertigation, cover cropping, and integrated pest management against powdery and downy mildew."
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "crop": "Orange (Citrus)",
+    "disease": "Huanglongbing (Citrus Greening)",
+    "pathogen": "Candidatus Liberibacter asiaticus (Bacterium)",
+    "description": "Citrus greening (HLB) is one of the world's most devastating citrus diseases, vectored by the Asian citrus psyllid (Diaphorina citri).",
+    "symptoms": "Asymmetric blotchy mottling on leaves crossing leaf veins; yellow shoots; small, misshapen, bitter fruit that remains green at the base; tree dieback.",
+    "management": "Control Asian citrus psyllid populations using targeted insecticides or biological controls; plant certified disease-free nursery stock; remove and destroy infected trees to prevent orchard spread."
+  },
+  "Peach___Bacterial_spot": {
+    "crop": "Peach",
+    "disease": "Bacterial Spot",
+    "pathogen": "Xanthomonas arboricola pv. pruni (Bacterium)",
+    "description": "Bacterial disease causing angular shot-hole spots on leaves and sunken crater-like lesions on peach fruit.",
+    "symptoms": "Small water-soaked polygonal spots that turn purple-black; dead centers drop out creating a 'shot-hole' appearance; fruit cracking and gumming.",
+    "management": "Plant tolerant peach varieties; avoid excessive nitrogen fertilizer; apply copper sprays during dormant and bud-swell stages; apply oxytetracycline during early fruit development."
+  },
+  "Peach___healthy": {
+    "crop": "Peach",
+    "disease": "Healthy Leaf",
+    "pathogen": "None",
+    "description": "Healthy lanceolate peach foliage with smooth margins and glossy green surface.",
+    "symptoms": "Vibrant green blades without shot holes, leaf curl, or marginal scorch.",
+    "management": "Dormant preventative copper sprays for peach leaf curl, weed management around root zones, and balanced irrigation."
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "crop": "Bell Pepper",
+    "disease": "Bacterial Spot",
+    "pathogen": "Xanthomonas campestris pv. vesicatoria (Bacterium)",
+    "description": "Common bacterial disease of peppers in warm, humid regions, causing significant defoliation and unmarketable fruit.",
+    "symptoms": "Small circular water-soaked leaf spots that become dark brown with yellow halos; severe defoliation exposing peppers to sunscald; blister-like scab on fruit.",
+    "management": "Use certified pathogen-free seed; sanitize transplant trays and equipment; avoid overhead watering; spray preventative copper bactericides mixed with mancozeb."
+  },
+  "Pepper,_bell___healthy": {
+    "crop": "Bell Pepper",
+    "disease": "Healthy Leaf",
+    "pathogen": "None",
+    "description": "Healthy bell pepper leaf showing vibrant green tissue without spots or mosaic patterns.",
+    "symptoms": "Smooth ovate leaves, firm structure, uniform coloration.",
+    "management": "Ensure adequate calcium to prevent blossom end rot, stake plants for support, and monitor for aphids and thrips."
+  },
+  "Potato___Early_blight": {
+    "crop": "Potato",
+    "disease": "Early Blight",
+    "pathogen": "Alternaria solani (Fungus)",
+    "description": "Foliar fungal disease characterized by concentric target-ring spots on older potato leaves, leading to reduced tuber yields.",
+    "symptoms": "Dark brown circular spots with distinct concentric rings ('target-board' pattern); surrounding yellow halos; lower leaves turn yellow and drop.",
+    "management": "Practice 3-year crop rotation with non-solanaceous crops; maintain good vine vigor with balanced nitrogen; apply chlorothalonil or azoxystrobin fungicides preventatively."
+  },
+  "Potato___Late_blight": {
+    "crop": "Potato",
+    "disease": "Late Blight",
+    "pathogen": "Phytophthora infestans (Oomycete)",
+    "description": "The catastrophic disease responsible for the Irish Potato Famine; spreads rapidly during cool, wet weather, destroying entire fields in days.",
+    "symptoms": "Large, irregular water-soaked pale green or dark brown lesions; white cottony fungal growth on the underside of leaves in humid conditions; tubers rot with a foul odor.",
+    "management": "Destroy cull piles; plant certified disease-free seed tubers; eliminate volunteer potato plants; apply systemic fungicides like mandipropamid or cymoxanil upon local disease warnings."
+  },
+  "Potato___healthy": {
+    "crop": "Potato",
+    "disease": "Healthy Leaf",
+    "pathogen": "None",
+    "description": "Lush compound potato foliage showing healthy leaf venation and no necrosis.",
+    "symptoms": "Firm leaflets, deep green color, free from spots, blight, or viral mosaics.",
+    "management": "Hill soil over developing tubers, maintain consistent soil moisture, and follow IPM scouting protocols."
+  },
+  "Raspberry___healthy": {
+    "crop": "Raspberry",
+    "disease": "Healthy Leaf",
+    "pathogen": "None",
+    "description": "Healthy compound raspberry leaf with serrated margins and vibrant green appearance.",
+    "symptoms": "Clean serrated margins, white-felted underside typical of healthy canes, no rust or anthracnose.",
+    "management": "Prune out spent floricanes after harvest; thin primocanes to enhance ventilation; maintain organic mulch."
+  },
+  "Soybean___healthy": {
+    "crop": "Soybean",
+    "disease": "Healthy Leaf",
+    "pathogen": "None",
+    "description": "Healthy trifoliate soybean leaf with intact structure and active photosynthetic area.",
+    "symptoms": "Uniform green trifoliate leaflets, absence of frogeye leaf spots, rust, or sudden death syndrome chlorosis.",
+    "management": "Standard agronomic practices: inoculate with Bradyrhizobium japonicum, scout for soybean aphids, and implement crop rotation."
+  },
+  "Squash___Powdery_mildew": {
+    "crop": "Squash",
+    "disease": "Powdery Mildew",
+    "pathogen": "Podosphaera xanthii (Fungus)",
+    "description": "Ubiquitous fungal infection coating squash leaves in powdery white spores, causing leaves to brown and wither prematurely.",
+    "symptoms": "White talcum-powder-like spots on both leaf surfaces; spots coalesce to cover entire leaves; affected leaves turn yellow, brown, and brittle.",
+    "management": "Plant powdery-mildew-resistant squash varieties; provide wide plant spacing for sunlight penetration; apply potassium bicarbonate, horticultural oils, or sulfur fungicides."
+  },
+  "Strawberry___Leaf_scorch": {
+    "crop": "Strawberry",
+    "disease": "Leaf Scorch",
+    "pathogen": "Diplocarpon earlianum (Fungus)",
+    "description": "Common foliar disease of strawberries causing numerous small purple-to-brown spots that merge until leaves appear burned or scorched.",
+    "symptoms": "Irregular dark purple to reddish-brown blotches (1 to 5 mm) lacking pale centers; leaves curl upward and dry out as if scorched by heat.",
+    "management": "Plant certified disease-free runners; renovate strawberry beds after harvest by mowing old foliage; avoid overhead sprinklers; apply captan or fenhexamid."
+  },
+  "Strawberry___healthy": {
+    "crop": "Strawberry",
+    "disease": "Healthy Leaf",
+    "pathogen": "None",
+    "description": "Healthy trifoliate strawberry foliage exhibiting deep emerald green color.",
+    "symptoms": "Firm serrated leaflets, free of leaf spot, scorch, or spider mite webbing.",
+    "management": "Mulch with clean straw to prevent fruit-soil contact, provide drip irrigation, and remove old dead leaves."
+  },
+  "Tomato___Bacterial_spot": {
+    "crop": "Tomato",
+    "disease": "Bacterial Spot",
+    "pathogen": "Xanthomonas perforans / vesicatoria (Bacterium)",
+    "description": "Bacterial infection causing small, water-soaked, dark spots on tomato foliage, stems, and fruit.",
+    "symptoms": "Small (1-3 mm) angular dark brown spots with greasy texture; yellowing of surrounding leaf tissue; defoliation; blister-like scabs on green tomatoes.",
+    "management": "Use certified disease-free seed; avoid touching wet foliage; sanitize stakes and cages; spray copper hydroxide combined with mancozeb or bacteriophages."
+  },
+  "Tomato___Early_blight": {
+    "crop": "Tomato",
+    "disease": "Early Blight",
+    "pathogen": "Alternaria linariae / solani (Fungus)",
+    "description": "Fungal disease causing concentric target-ring spots on older foliage, progressively killing leaves from bottom to top.",
+    "symptoms": "Dark brown spots with concentric rings ('bullseye' appearance) surrounded by chlorotic yellow halo; lower leaves wither and drop; collar rot on seedling stems.",
+    "management": "Stake and prune lower leaves 12 inches above the soil line; apply mulch around the base to prevent soil splash; apply copper or chlorothalonil fungicides."
+  },
+  "Tomato___Late_blight": {
+    "crop": "Tomato",
+    "disease": "Late Blight",
+    "pathogen": "Phytophthora infestans (Oomycete)",
+    "description": "Extremely fast-moving water-mold disease that devastates tomato plants during cool, rainy weather.",
+    "symptoms": "Large, dark greasy-looking lesions on leaves and stems; white fuzzy sporulation on leaf undersides in high humidity; firm, greasy brown rot on tomatoes.",
+    "management": "Immediately pull and bag heavily infected plants to stop spore drift; avoid overhead watering; apply preventative bio-fungicides or chlorothalonil upon weather alert."
+  },
+  "Tomato___Leaf_Mold": {
+    "crop": "Tomato",
+    "disease": "Leaf Mold",
+    "pathogen": "Passalora fulva (Fungus)",
+    "description": "A fungal disease predominantly affecting greenhouse and high-tunnel tomatoes in conditions of high humidity (>85%).",
+    "symptoms": "Pale greenish-yellow spots with indistinct margins on upper leaf surfaces; olive-green to brown velvety fungal growth directly below on leaf undersides.",
+    "management": "Improve ventilation and air circulation with fans; maintain relative humidity below 80%; prune lower leaves; plant resistant varieties (e.g., with Cf genes)."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "crop": "Tomato",
+    "disease": "Septoria Leaf Spot",
+    "pathogen": "Septoria lycopersici (Fungus)",
+    "description": "One of the most destructive foliar diseases of tomatoes, producing hundreds of tiny circular spots that defoliate plants.",
+    "symptoms": "Small, circular spots (1-3 mm) with dark brown margins and sunken grayish-white centers dotted with tiny black fruiting bodies (pycnidia).",
+    "management": "Avoid overhead watering; remove and dispose of infected bottom leaves promptly; practice 3-year crop rotation; apply copper or chlorothalonil fungicides."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "crop": "Tomato",
+    "disease": "Two-Spotted Spider Mite Infestation",
+    "pathogen": "Tetranychus urticae (Arachnid Pest)",
+    "description": "Microscopic sap-feeding arachnids that puncture plant cells, favored by hot, dry conditions, creating fine webbing on undersides of leaves.",
+    "symptoms": "Fine yellow or white stippling on leaf surfaces; bronzed, dry foliage; delicate silky webbing on leaf undersides and growing tips.",
+    "management": "Spray undersides of leaves with strong streams of water; release predatory mites (Phytoseiulus persimilis); apply insecticidal soap or neem oil; avoid excessive synthetic pyrethroids."
+  },
+  "Tomato___Target_Spot": {
+    "crop": "Tomato",
+    "disease": "Target Spot",
+    "pathogen": "Corynespora cassiicola (Fungus)",
+    "description": "Fungal pathogen causing circular lesions with light brown centers and dark concentric rings on leaves and sunken lesions on fruit.",
+    "symptoms": "Brown circular spots with concentric target-pattern rings; lesions can coalesce to cause blighting and leaf collapse.",
+    "management": "Ensure adequate plant spacing; remove lower diseased foliage; avoid overhead watering; apply strobilurin or carboxamide fungicides."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "crop": "Tomato",
+    "disease": "Tomato Yellow Leaf Curl Virus (TYLCV)",
+    "pathogen": "Begomovirus (Vectored by Bemisia tabaci whiteflies)",
+    "description": "A destructive viral disease transmitted by the silverleaf whitefly, causing severe plant stunting and drastic fruit abortion.",
+    "symptoms": "Upward curling and cupping of leaflets; strong interveinal chlorosis (yellowing) on leaf margins; pronounced plant stunting and bushy growth; flowers drop off.",
+    "management": "Control whitefly vectors using yellow sticky cards and systemic insecticides; use UV-reflective silver mulches; install insect-exclusion netting; plant TYLCV-resistant hybrids."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "crop": "Tomato",
+    "disease": "Tomato Mosaic Virus (ToMV)",
+    "pathogen": "Tobamovirus (Mechanically transmitted)",
+    "description": "Highly stable and contagious virus transmitted via tools, worker hands, seeds, and root contact, causing mottling and distorted growth.",
+    "symptoms": "Alternating light and dark green mosaic patterns on leaves; blistered, distorted or strap-like foliage; internal browning (brown wall) of tomato fruit.",
+    "management": "Wash hands with soap and disinfect pruning tools with 20% skim milk or 10% bleach; plant certified virus-free seed; burn or bury infected plants; avoid smoking near tomatoes."
+  },
+  "Tomato___healthy": {
+    "crop": "Tomato",
+    "disease": "Healthy Leaf",
+    "pathogen": "None",
+    "description": "Vibrant, deep green tomato foliage with robust hairs (trichomes) and intact serrated leaflet margins.",
+    "symptoms": "Uniform rich green coloration, absence of spotting, mottling, or wilt.",
+    "management": "Stake or cage plants, mulch root zone, provide consistent drip irrigation, and maintain weekly scouting for foliar blights."
+  }
+}
